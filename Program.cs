@@ -46,7 +46,7 @@ public class Program
     }
 }
 
-/*** Lab 03 ***
+/*** Lab 04 ***
 Một lớp AVector có các phương thức:
 - ShowInfo: hiển thị thông tin của lớp
 - Add: cộng 2 AVector
